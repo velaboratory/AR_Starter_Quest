@@ -17,7 +17,7 @@ public class RotateSubmarineBlades : MonoBehaviour
     {
         // Set rotate to false at start. I did this because I use a button to start the rotation.
         // Set rotate to true at start, if you want it to rotate on start.
-        rotate = false;
+        rotate = true;
     }
 
     private void FixedUpdate()

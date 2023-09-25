@@ -643,8 +643,20 @@ PrefabInstance:
       value: ElectricMotorAndCraddle
       objectReference: {fileID: 0}
     - target: {fileID: 1997038808746733029, guid: acf59e8c76bc07849b839d15d8b57d5c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1997038808746733029, guid: acf59e8c76bc07849b839d15d8b57d5c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1997038808746733029, guid: acf59e8c76bc07849b839d15d8b57d5c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1997038808746733029, guid: acf59e8c76bc07849b839d15d8b57d5c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1
+      value: 0.04
       objectReference: {fileID: 0}
     - target: {fileID: 1997038808746733029, guid: acf59e8c76bc07849b839d15d8b57d5c, type: 3}
       propertyPath: m_LocalPosition.y
